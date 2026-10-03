@@ -1,0 +1,23 @@
+# Secrets
+.env
+
+# Data
+data/
+*.db
+*.sqlite3
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
+
+# Logs
+*.log
